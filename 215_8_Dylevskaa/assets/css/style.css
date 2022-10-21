@@ -1,0 +1,61 @@
+.first{}
+.header{
+}
+.container{
+}
+.background1{
+    background: ;
+}
+
+
+.header__wrap{}
+.header__menu{
+    
+}
+.header__logo{}
+.header__menu__list{
+    display: flex;
+    letter-spacing: 1px;
+}
+.header__menu__item{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #FFFFFF;
+    }
+
+.header__menu__link{}
+
+
+.intro__background{}
+.intro__title{}
+.intro__subtitle{}
+.intro__arrow{}
+.intro__arrow__two{}
+.intro__button{}
+.intro__button__two{}
+.intro__indicators{}
+
+
+.section__two{}
+.background2{}
+.section__two__banner{}
+.section__two__titlee{}
+.section__two__title{}
+.section__two__subtitle{}
+.section__two__card{}
+.section__two__image{}
+.section__two__title1{}
+.section__two__text{}
+.section__two__button{}
+.section__three{}
+
+
+.background3{}
+.section__three1{}
+.section__three__title{}
+.section__three__subtitle{}
+.section__three__button{}
+.section__three__button2{}
